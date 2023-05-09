@@ -1,13 +1,14 @@
 # Bay Blooms
 
-Vistit Website: [bayblooms.surge.sh](https://bayblooms.surge.sh)
 
 Bay Blooms aims to help gardening enthusiasts make informed decisions about their gardening choices. Our goal is to increase awareness about native and exotic plant species in San Francisco, with the hope of inspiring individuals to conserve, protect, and promote the planting of more native plants in the Bay Area.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Click here to visit website](https://bayblooms.surge.sh)
 
 
 # Development
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
