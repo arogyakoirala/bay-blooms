@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Bay Blooms",
+  "name": "Helping gardening enthusiasts make informed decisions about their gardening choices.",
   "icons": [
     {
       "src": "favicon.ico",
