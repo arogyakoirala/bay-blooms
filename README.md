@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Bay Blooms
+
+Bay Blooms aims to help gardening enthusiasts make informed decisions about their gardening choices. Our goal is to increase awareness about native and exotic plant species in San Francisco, with the hope of inspiring individuals to conserve, protect, and promote the planting of more native plants in the Bay Area.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+# Development
 
 ## Available Scripts
 
